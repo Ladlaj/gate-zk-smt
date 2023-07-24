@@ -10,7 +10,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"gate-zk-smt/metrics"
+	"github.com/gatechain/gate-zk-smt/metrics"
 )
 
 var _ metrics.Metrics = (*Collector)(nil)

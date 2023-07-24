@@ -1,7 +1,7 @@
 package zk_smt
 
 import (
-	"gate-zk-smt/metrics"
+	"github.com/gatechain/gate-zk-smt/metrics"
 	"github.com/panjf2000/ants/v2"
 )
 

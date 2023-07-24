@@ -1,1 +1,1 @@
-# gate-zk-smt
+# github.com/gatechain/gate-zk-smt

@@ -1,4 +1,4 @@
-module gate-zk-smt
+module github.com/gatechain/gate-zk-smt
 
 go 1.18
 

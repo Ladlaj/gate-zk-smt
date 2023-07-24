@@ -12,8 +12,8 @@ import (
 	"github.com/go-redis/redis/v8"
 	stdErrors "github.com/pkg/errors"
 
-	"gate-zk-smt/database"
-	"gate-zk-smt/utils"
+	"github.com/gatechain/gate-zk-smt/database"
+	"github.com/gatechain/gate-zk-smt/utils"
 )
 
 var (

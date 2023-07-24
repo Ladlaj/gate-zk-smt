@@ -14,7 +14,7 @@ import (
 	"github.com/syndtr/goleveldb/leveldb/filter"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"gate-zk-smt/database"
+	"github.com/gatechain/gate-zk-smt/database"
 )
 
 var (
