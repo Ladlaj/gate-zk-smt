@@ -1,1 +1,1 @@
-# github.com/gatechain/gate-zk-smt
+master# github.com/gatechain/gate-zk-smt
